@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006/09/11 18:39:48.296.cpp,C:\Documents and Settings\Esen\My Documents\Borland Studio Projects\Unit1.cpp=D:\Esen\Computer Science\IncoreX\My Tlichi\MainForm.cpp</Transaction>
+    <Transaction>2006/09/11 18:39:48.296.h,C:\Documents and Settings\Esen\My Documents\Borland Studio Projects\Unit1.h=D:\Esen\Computer Science\IncoreX\My Tlichi\MainForm.h</Transaction>
+    <Transaction>2006/09/11 18:39:48.296.dfm,C:\Documents and Settings\Esen\My Documents\Borland Studio Projects\Unit1.dfm=D:\Esen\Computer Science\IncoreX\My Tlichi\MainForm.dfm</Transaction>
+    <Transaction>2006/09/11 18:39:52.484.bdsproj,C:\Documents and Settings\Esen\My Documents\Borland Studio Projects\Project1.bdsproj=D:\Esen\Computer Science\IncoreX\My Tlichi\Tilchi.bdsproj</Transaction>
+    <Transaction>2006/09/14 01:06:37.265.cpp,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit2.cpp=D:\Esen\Computer Science\IncoreX\My Tlichi\HistoryForm.cpp</Transaction>
+    <Transaction>2006/09/14 01:06:37.296.h,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit2.h=D:\Esen\Computer Science\IncoreX\My Tlichi\HistoryForm.h</Transaction>
+    <Transaction>2006/09/14 01:06:37.296.dfm,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit2.dfm=D:\Esen\Computer Science\IncoreX\My Tlichi\HistoryForm.dfm</Transaction>
+    <Transaction>2006/10/10 16:55:11.796.cpp,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.cpp=D:\Esen\Computer Science\IncoreX\My Tlichi\AboutForm.cpp</Transaction>
+    <Transaction>2006/10/10 16:55:11.796.h,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.h=D:\Esen\Computer Science\IncoreX\My Tlichi\AboutForm.h</Transaction>
+    <Transaction>2006/10/10 16:55:11.796.dfm,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.dfm=D:\Esen\Computer Science\IncoreX\My Tlichi\AboutForm.dfm</Transaction>
+    <Transaction>2006/10/10 23:25:06.656.cpp,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.cpp=D:\Esen\Computer Science\IncoreX\My Tlichi\RegisterForm.cpp</Transaction>
+    <Transaction>2006/10/10 23:25:06.671.h,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.h=D:\Esen\Computer Science\IncoreX\My Tlichi\RegisterForm.h</Transaction>
+    <Transaction>2006/10/10 23:25:06.671.dfm,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.dfm=D:\Esen\Computer Science\IncoreX\My Tlichi\RegisterForm.dfm</Transaction>
+    <Transaction>2006/10/11 23:02:08.843.cpp,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.cpp=D:\Esen\Computer Science\IncoreX\My Tlichi\SplashForm.cpp</Transaction>
+    <Transaction>2006/10/11 23:02:08.843.h,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.h=D:\Esen\Computer Science\IncoreX\My Tlichi\SplashForm.h</Transaction>
+    <Transaction>2006/10/11 23:02:08.843.dfm,D:\Esen\Computer Science\IncoreX\My Tlichi\Unit1.dfm=D:\Esen\Computer Science\IncoreX\My Tlichi\SplashForm.dfm</Transaction>
+    <Transaction>2006/11/07 17:03:20.859.cpp,D:\Esen\Computer Science\IncoreX\KasperStyle\AboutForm.cpp=</Transaction>
+    <Transaction>2006/11/07 17:03:20.859.dfm,D:\Esen\Computer Science\IncoreX\KasperStyle\AboutForm.dfm=</Transaction>
+    <Transaction>2006/11/07 20:59:05.171.cpp,D:\Esen\Computer Science\IncoreX\KasperStyle\Unit1.cpp=D:\Esen\Computer Science\IncoreX\KasperStyle\SettingsForm.cpp</Transaction>
+    <Transaction>2006/11/07 20:59:05.171.h,D:\Esen\Computer Science\IncoreX\KasperStyle\Unit1.h=D:\Esen\Computer Science\IncoreX\KasperStyle\SettingsForm.h</Transaction>
+    <Transaction>2006/11/07 20:59:05.171.dfm,D:\Esen\Computer Science\IncoreX\KasperStyle\Unit1.dfm=D:\Esen\Computer Science\IncoreX\KasperStyle\SettingsForm.dfm</Transaction>
+    <Transaction>2007.05.03 14:17:32.250.cpp,E:\Incorex\Tilchi_1.0.1.4400\Tilchi\Unit1.cpp=E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterM.cpp</Transaction>
+    <Transaction>2007.05.03 14:17:32.250.h,E:\Incorex\Tilchi_1.0.1.4400\Tilchi\Unit1.h=E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterM.h</Transaction>
+    <Transaction>2007.05.03 14:17:32.250.dfm,E:\Incorex\Tilchi_1.0.1.4400\Tilchi\Unit1.dfm=E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterM.dfm</Transaction>
+    <Transaction>2007.05.03 14:22:11.937.cpp,E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterM.cpp=E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterMForm.cpp</Transaction>
+    <Transaction>2007.05.03 14:22:11.937.h,E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterM.h=E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterMForm.h</Transaction>
+    <Transaction>2007.05.03 14:22:11.937.dfm,E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterM.dfm=E:\Incorex\Tilchi_1.0.1.4400\Tilchi\RegisterMForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
