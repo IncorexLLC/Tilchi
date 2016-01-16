@@ -1,0 +1,5 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Keyboard layouts\00000C40]
+"Layout File"="kbdkgu.kbd"
+"Layout Text"="Кыргызская (удобная)"

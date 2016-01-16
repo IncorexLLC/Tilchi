@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Keyboard layouts\00030440]
+"Layout File"="KBDKGU.DLL"
+"Layout Id"="0089"
+"Layout Text"="Кыргызская (удобная)"

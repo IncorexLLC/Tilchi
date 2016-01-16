@@ -1,0 +1,16 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Keyboard layouts\00010440]
+"Layout File"="KBDKGA.DLL"
+"Layout Id"="0087"
+"Layout Text"="Кыргызская (альтернатива)"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Keyboard layouts\00020440]
+"Layout File"="KBDKGO.DLL"
+"Layout Id"="0088"
+"Layout Text"="Кыргызская (основная)"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Keyboard layouts\00030440]
+"Layout File"="KBDKGU.DLL"
+"Layout Id"="0089"
+"Layout Text"="Кыргызская (удобная)"
