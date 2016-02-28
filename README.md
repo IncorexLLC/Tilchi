@@ -3,7 +3,7 @@ Russian-Kyrgyz electronic dictionary system
 
 ----------------
 
-![Tichi v1.0.2 Main Window](https://github.com/IncorexLLC/Tichi/blob/master/Snapshots/MainWindow.gif)
+![Tichi v1.0.2 Main Window](https://github.com/IncorexLLC/Tilchi/blob/master/Snapshots/MainWindow.gif)
 
 ----------------
 
